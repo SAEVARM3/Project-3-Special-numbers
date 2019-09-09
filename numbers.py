@@ -1,10 +1,10 @@
-#DÃ¦mi nÃºmer 1 - [PÃ³sÃ­tÃ­var tveggja stafa tÃ¶lur sem eru Ã¾annig aÃ° annaÃ° veldi af summu einstakra tÃ¶lustafa er jafnt tÃ¶lunni sjÃ¡lfri]
+#Dæmi númer 1 - [Pósítívar tveggja stafa tölur sem eru şannig ağ annağ veldi af summu einstakra tölustafa er jafnt tölunni sjálfri]
 for i in range(10, 100):
     if ((i // 10) + (i % 10)) ** 2 == i:
         print (i)
 
 
-#DÃ¦mi nÃºmer 2 - [TÃ¶lur < 100 sem eiga sÃ©r nÃ¡kvÃ¦mlega 10 deila]
+#Dæmi númer 2 - [Tölur < 100 sem eiga sér nákvæmlega 10 deila]
 for i in range (1, 100):
     num = 0
     for j in range(1, i+1):
